@@ -8,6 +8,7 @@ For example,
 - pip install tensorflow
 
 # The data used is in the folder Data
+The data is so big and for that reason it is not here in GitHub, but is free in:
 https://www.kaggle.com/c/histopathologic-cancer-detection/data
 
 # The result is the file:
